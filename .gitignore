@@ -1,0 +1,6 @@
+# Reference artifacts from firmware dump (local only)
+_aospdtgen_draft/
+_dump_info*.txt
+
+# Large GKI kernel modules (1.1 GB total, 702 MB qca_cld3_wlan.ko) - copied from dump on build server
+prebuilts/modules/**/*.ko

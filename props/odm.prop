@@ -1,0 +1,8 @@
+# Display
+ro.surface_flinger.game_default_frame_rate_override=120
+
+# Device identity
+ro.product.device_for_attestation=topaz
+ro.product.manufacturer_for_attestation=Xiaomi
+ro.product.odm.marketname=topaz
+ro.vendor.qti.va_odm.support=1
